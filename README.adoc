@@ -9,5 +9,5 @@ The SIGTURK DevOps aims to streamline the setup process for developers working o
 == Features
 
 * *Docker Image*: Customized for SIGTURK development, containing all necessary dependencies.
-* *Devcontainer*: Easy to use with Code and Actions for a seamless development and testing experience.
+* *Devcontainer Prebuild*: Easy to use with Code and Actions for a seamless development and testing experience.
 * *Codespace Prebuild*: Ensures a fast startup time by prebuilding the environment for Codespaces.
