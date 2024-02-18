@@ -1,0 +1,13 @@
+= SIGTURK DevOps
+
+image:https://img.shields.io/badge/version-0.0.0-blue.svg["Version", link="https://semver.org"]
+// image:https://img.shields.io/docker/pulls/????/????.svg["Docker Pulls", link="https://hub.docker.com/r/sigturk/sigturk-dev"]
+// image:https://img.shields.io/badge/Codespaces-Supported-green.svg["Codespaces", link="https://github.com/features/codespaces"]
+
+The SIGTURK DevOps aims to streamline the setup process for developers working on SIGTURK projects. By integrating a Docker image, Devcontainer configuration, and Codespaces prebuild, we provide a fast, consistent, and easy-to-use environment, eliminating the need for manual setup and duplication. The resulting artifacts are applicable for continuous integration and development environments, providing an additional unification measure.
+
+== Features
+
+* *Docker Image*: Customized for SIGTURK development, containing all necessary dependencies.
+* *Devcontainer*: Easy to use with Code and Actions for a seamless development and testing experience.
+* *Codespace Prebuild*: Ensures a fast startup time by prebuilding the environment for Codespaces.
